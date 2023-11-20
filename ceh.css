@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.chapters {
+    margin-top: 20px;
+}
+
+.chapter {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+.chapter h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.chapter p {
+    font-size: 16px;
+    color: #555;
+}
